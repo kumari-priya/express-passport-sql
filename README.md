@@ -1,1 +1,1 @@
-# express-passport-sql
+# express-passport-mysql
